@@ -1,0 +1,27 @@
+[
+	{
+		"maturityPeriod" : 1,
+		"interestRate" : 500.0,
+		"lastUpdate" : 1483309243
+	},
+	{
+		"maturityPeriod" : 12,
+		"interestRate" : 495.0,
+		"lastUpdate" : 1485987643
+	},
+	{
+		"maturityPeriod" : 50,
+		"interestRate" : 400.0,
+		"lastUpdate" : 1488406843
+	},
+	{
+		"maturityPeriod" : 180,
+		"interestRate" : 350.0,
+		"lastUpdate" : 1493677243
+	},
+	{
+		"maturityPeriod" : 360,
+		"interestRate" : 10.0,
+		"lastUpdate" : 1501626043
+	}
+]
